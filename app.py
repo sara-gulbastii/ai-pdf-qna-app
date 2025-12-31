@@ -9,6 +9,7 @@ from langchain_community.vectorstores import Chroma
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 
+
 # Page config
 st.set_page_config(page_title="PDF RAG Chatbot", page_icon="📚", layout="centered")
 
