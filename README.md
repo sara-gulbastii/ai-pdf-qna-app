@@ -16,4 +16,5 @@ A full-stack AI web app that lets users upload PDFs and ask questions — answer
 - LangChain + OpenAI
 - Chroma vector store
 
-Built as a portfolio project for freelance AI web app development.
+Built with LangChain (latest modular architecture) using langchain-community and langchain-openai.
+
