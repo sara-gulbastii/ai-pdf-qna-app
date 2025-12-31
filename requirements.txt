@@ -7,3 +7,4 @@ openai
 chromadb
 pypdf
 tiktoken
+langchain-text-splitter
