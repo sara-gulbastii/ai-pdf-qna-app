@@ -1,9 +1,7 @@
-streamlit
 langchain
-langchain-community
-langchain-openai
 langchain-text-splitters
+langchain-openai
+langchain-community
+streamlit
 chromadb
 pypdf
-openai
-tiktoken
